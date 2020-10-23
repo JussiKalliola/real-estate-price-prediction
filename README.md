@@ -1,2 +1,3 @@
-# real-estate-price-prediction
-The best performing model, dataset and optimization data from wandb tool.
+# DNN Hyper-parameter Optimization for Predicting Real Estate Prices in Helsinki
+
+This repository includes the best model file, full dataset and Weights & Biases optimization data for the research.
